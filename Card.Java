@@ -2,8 +2,8 @@ package practice;
 
 import java.util.Arrays;
 
-/**
- *
+/** Basic card sorting where the serial is A,K,Q,J,10,.......
+ *  I have done it using basic array sort technique
  * @author Mimi
  */
 public class Card {
